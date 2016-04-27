@@ -1,0 +1,5487 @@
+{
+  "data": [
+    {
+      "id"          : "5332cdfbfbf59a191b00006a",
+      "annee"       : "2012",
+      "iteration"   : 4,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b00006c",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2012-08-01",
+          "duree"          : 12,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 22.0,
+          "etp_ratio"      : 22.0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b000001",
+      "annee"       : "2012",
+      "iteration"   : 5,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b000003",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2012-08-20",
+          "duree"          : 5,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 6.0,
+          "etp_ratio"      : 6.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfbfbf59a191b00006f",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2012-08-18",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 20.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000d8",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2012-07-27",
+          "duree"          : 18,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b000004",
+      "annee"       : "2012",
+      "iteration"   : 6,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b000006",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2012-08-25",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 22.0,
+          "etp_ratio"      : 16.25,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfbfbf59a191b000072",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2012-09-03",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 13.0,
+          "etp_ratio"      : 13.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000db",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2012-08-24",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b000007",
+      "annee"       : "2012",
+      "iteration"   : 7,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b000009",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2012-09-10",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 35.5,
+          "etp_ratio"      : 28.25,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfbfbf59a191b000075",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2012-09-17",
+          "duree"          : 6,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 4.0,
+          "etp_ratio"      : 4.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000de",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2012-09-21",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b00000a",
+      "annee"       : "2012",
+      "iteration"   : 8,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b00000c",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2012-09-24",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 23.75,
+          "etp_ratio"      : 20.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfbfbf59a191b000078",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2012-09-25",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 20.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000e1",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2012-10-05",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b00000d",
+      "annee"       : "2012",
+      "iteration"   : 9,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b00000f",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2012-10-06",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 14.0,
+          "etp_ratio"      : 11.75,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfbfbf59a191b00007b",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2012-10-09",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 18.0,
+          "etp_ratio"      : 18.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000e4",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2012-10-19",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b000010",
+      "annee"       : "2012",
+      "iteration"   : 10,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b000012",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2012-10-22",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 14.875,
+          "etp_ratio"      : 13.625,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfbfbf59a191b00007e",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2012-10-23",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 22.0,
+          "etp_ratio"      : 22.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000e7",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2012-11-05",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b000013",
+      "annee"       : "2012",
+      "iteration"   : 11,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b000015",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2012-11-05",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.215,
+          "etp_ratio"      : 18.215,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfbfbf59a191b000081",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2012-11-06",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 43.0,
+          "etp_ratio"      : 43.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000ea",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2012-11-16",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b000016",
+      "annee"       : "2012",
+      "iteration"   : 12,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b000018",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2012-11-19",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 29.75,
+          "etp_ratio"      : 27.75,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfbfbf59a191b000084",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2012-11-20",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 35.0,
+          "etp_ratio"      : 35.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000ed",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2012-11-30",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b000019",
+      "annee"       : "2012",
+      "iteration"   : 13,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b00001b",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2012-12-03",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 31.25,
+          "etp_ratio"      : 30.75,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfbfbf59a191b000087",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2012-12-04",
+          "duree"          : 13,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 45.0,
+          "etp_ratio"      : 45.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000f0",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2012-12-14",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b00001c",
+      "annee"       : "2012",
+      "iteration"   : 14,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b00001e",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2012-12-17",
+          "duree"          : 15,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.25,
+          "etp_ratio"      : 15.75,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfbfbf59a191b00008a",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2012-12-21",
+          "duree"          : 7,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 14.0,
+          "etp_ratio"      : 14.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000f3",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2012-12-20",
+          "duree"          : 4,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b00001f",
+      "annee"       : "2013",
+      "iteration"   : 1,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b000021",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-01-07",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 31.9,
+          "etp_ratio"      : 29.4,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfbfbf59a191b00008d",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-01-03",
+          "duree"          : 14,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 60.0,
+          "etp_ratio"      : 60.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000f6",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-01-07",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b000022",
+      "annee"       : "2013",
+      "iteration"   : 2,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b000024",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-01-21",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 31.25,
+          "etp_ratio"      : 28.5,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfbfbf59a191b000090",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-01-21",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 41.0,
+          "etp_ratio"      : 41.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000f9",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-01-18",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b000025",
+      "annee"       : "2013",
+      "iteration"   : 3,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b000027",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-02-04",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 30.0,
+          "etp_ratio"      : 26.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfbfbf59a191b000093",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-02-05",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 43.0,
+          "etp_ratio"      : 43.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000fc",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-02-01",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b000028",
+      "annee"       : "2013",
+      "iteration"   : 4,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b00002a",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-02-18",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 30.5,
+          "etp_ratio"      : 26.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfbfbf59a191b000096",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-02-19",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 37.0,
+          "etp_ratio"      : 37.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000ff",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-02-15",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b00002b",
+      "annee"       : "2013",
+      "iteration"   : 5,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b00002d",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-03-04",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 31.75,
+          "etp_ratio"      : 26.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfbfbf59a191b000099",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-03-05",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 49.0,
+          "etp_ratio"      : 49.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b000102",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-03-01",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b00002e",
+      "annee"       : "2013",
+      "iteration"   : 6,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b000030",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-03-18",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 27.4,
+          "etp_ratio"      : 22.15,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfbfbf59a191b00009c",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-03-19",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 30.0,
+          "etp_ratio"      : 30.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b000105",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-03-15",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b000031",
+      "annee"       : "2013",
+      "iteration"   : 7,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b000033",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-04-02",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 26.5,
+          "etp_ratio"      : 22.25,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfbfbf59a191b00009f",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-04-03",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 41.0,
+          "etp_ratio"      : 41.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b000108",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-03-29",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b000034",
+      "annee"       : "2013",
+      "iteration"   : 8,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b000036",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-04-15",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 34.25,
+          "etp_ratio"      : 31.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfbfbf59a191b0000a2",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-04-17",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 42.0,
+          "etp_ratio"      : 42.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b00010b",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-04-12",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b000037",
+      "annee"       : "2013",
+      "iteration"   : 9,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b000039",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-04-29",
+          "duree"          : 8,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 14.125,
+          "etp_ratio"      : 12.875,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfbfbf59a191b0000a5",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-05-01",
+          "duree"          : 7,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 32.5,
+          "etp_ratio"      : 32.5,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b00010e",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-04-26",
+          "duree"          : 7,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b00003a",
+      "annee"       : "2013",
+      "iteration"   : 10,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b00003c",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-05-13",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 29.375,
+          "etp_ratio"      : 28.375,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfbfbf59a191b0000a8",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-05-15",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 35.5,
+          "etp_ratio"      : 35.5,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b000111",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-05-13",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b00003d",
+      "annee"       : "2013",
+      "iteration"   : 11,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b00003f",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-05-27",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 30.875,
+          "etp_ratio"      : 29.125,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000ab",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-05-29",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 38.5,
+          "etp_ratio"      : 38.5,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b000114",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-05-24",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b000040",
+      "annee"       : "2013",
+      "iteration"   : 12,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b000042",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-06-10",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 32.5,
+          "etp_ratio"      : 24.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000ae",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-06-12",
+          "duree"          : 11,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 40.75,
+          "etp_ratio"      : 31.75,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b000117",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-06-06",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b000043",
+      "annee"       : "2013",
+      "iteration"   : 13,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b000045",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-06-24",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 41.5,
+          "etp_ratio"      : 36.25,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000b1",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-06-27",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 40.0,
+          "etp_ratio"      : 35.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b00011a",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-06-20",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b000046",
+      "annee"       : "2013",
+      "iteration"   : 14,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b000048",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-07-08",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 29.05,
+          "etp_ratio"      : 29.05,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000b4",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-07-11",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 42.75,
+          "etp_ratio"      : 37.75,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b00011d",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-07-05",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b000049",
+      "annee"       : "2013",
+      "iteration"   : 15,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b00004b",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-07-19",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 24.0,
+          "etp_ratio"      : 21.25,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000b7",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-07-24",
+          "duree"          : 8,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 24.75,
+          "etp_ratio"      : 24.75,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b000120",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-07-22",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b00004c",
+      "annee"       : "2013",
+      "iteration"   : 16,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b00004e",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-08-02",
+          "duree"          : 20,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 13.5,
+          "etp_ratio"      : 13.5,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000ba",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-08-05",
+          "duree"          : 20,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 38.25,
+          "etp_ratio"      : 38.25,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b000123",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-08-05",
+          "duree"          : 19,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b00004f",
+      "annee"       : "2013",
+      "iteration"   : 17,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b000051",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-09-02",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 33.5,
+          "etp_ratio"      : 33.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000bd",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-09-03",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 42.749999999999986,
+          "etp_ratio"      : 42.749999999999986,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b000126",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-09-02",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b000052",
+      "annee"       : "2013",
+      "iteration"   : 18,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b000054",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-09-16",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 31.5,
+          "etp_ratio"      : 29.75,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000c0",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-09-17",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 35.75,
+          "etp_ratio"      : 35.75,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b000129",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-09-16",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b000055",
+      "annee"       : "2013",
+      "iteration"   : 19,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b000057",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-09-30",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 26.5,
+          "etp_ratio"      : 26.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000c3",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-10-01",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 44.0,
+          "etp_ratio"      : 44.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b00012c",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-09-30",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b000058",
+      "annee"       : "2013",
+      "iteration"   : 20,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b00005a",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-10-14",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 23.25,
+          "etp_ratio"      : 22.75,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000c6",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-10-14",
+          "duree"          : 11,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 40.75,
+          "etp_ratio"      : 40.75,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b00012f",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-10-14",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b00005b",
+      "annee"       : "2013",
+      "iteration"   : 21,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b00005d",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-10-28",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 27.0,
+          "etp_ratio"      : 18.5,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000c9",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-10-29",
+          "duree"          : 8,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 36.25,
+          "etp_ratio"      : 36.25,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b000132",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-10-25",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b00005e",
+      "annee"       : "2013",
+      "iteration"   : 22,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b000060",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-11-12",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 23.25,
+          "etp_ratio"      : 22.25,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000cc",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-11-12",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 45.0,
+          "etp_ratio"      : 45.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b000135",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-11-14",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b000061",
+      "annee"       : "2013",
+      "iteration"   : 23,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b000063",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-11-25",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 31.25,
+          "etp_ratio"      : 30.25,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000cf",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-11-26",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 40.0,
+          "etp_ratio"      : 40.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b000138",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-11-25",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b000064",
+      "annee"       : "2013",
+      "iteration"   : 24,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b000066",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-12-09",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 26.5,
+          "etp_ratio"      : 26.25,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000d2",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-12-10",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 41.25,
+          "etp_ratio"      : 41.25,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b00013b",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-12-09",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfbfbf59a191b000067",
+      "annee"       : "2013",
+      "iteration"   : 25,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfbfbf59a191b000069",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2013-12-23",
+          "duree"          : 8,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 3.0,
+          "etp_ratio"      : 3.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0000d5",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2013-12-24",
+          "duree"          : 8,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 6.0,
+          "etp_ratio"      : 6.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b00013e",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2013-12-23",
+          "duree"          : 8,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b00013f",
+      "annee"       : "2014",
+      "iteration"   : 1,
+      "ferme"       : true,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b000141",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-01-06",
+          "duree"          : 10,
+          "velocite_prevue": 25.0,
+          "velocite_faite" : 24.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 36.5,
+          "ratio"          : 1.52
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b00018f",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-01-06",
+          "duree"          : 11,
+          "velocite_prevue": 62.0,
+          "velocite_faite" : 47.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001dd",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-01-07",
+          "duree"          : 10,
+          "velocite_prevue": 32.0,
+          "velocite_faite" : 30.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 46.5,
+          "ratio"          : 1.55
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b000142",
+      "annee"       : "2014",
+      "iteration"   : 2,
+      "ferme"       : true,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b000144",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-01-20",
+          "duree"          : 10,
+          "velocite_prevue": 29.0,
+          "velocite_faite" : 22.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 37.25,
+          "ratio"          : 1.69
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b000192",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-01-20",
+          "duree"          : 9,
+          "velocite_prevue": 63.0,
+          "velocite_faite" : 55.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001e0",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-01-21",
+          "duree"          : 10,
+          "velocite_prevue": 29.0,
+          "velocite_faite" : 27.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 36.875,
+          "ratio"          : 1.37
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b000145",
+      "annee"       : "2014",
+      "iteration"   : 3,
+      "ferme"       : true,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b000147",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-02-03",
+          "duree"          : 10,
+          "velocite_prevue": 24.0,
+          "velocite_faite" : 22.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 34.25,
+          "ratio"          : 1.56
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b000195",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-02-03",
+          "duree"          : 10,
+          "velocite_prevue": 57.0,
+          "velocite_faite" : 65.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001e3",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-02-04",
+          "duree"          : 10,
+          "velocite_prevue": 22.0,
+          "velocite_faite" : 21.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 36.0,
+          "ratio"          : 1.71
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b000148",
+      "annee"       : "2014",
+      "iteration"   : 4,
+      "ferme"       : true,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b00014a",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-02-17",
+          "duree"          : 10,
+          "velocite_prevue": 26.0,
+          "velocite_faite" : 24.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 35.25,
+          "ratio"          : 1.47
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b000198",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-02-17",
+          "duree"          : 10,
+          "velocite_prevue": 67.0,
+          "velocite_faite" : 63.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001e6",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-02-18",
+          "duree"          : 10,
+          "velocite_prevue": 35.0,
+          "velocite_faite" : 27.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 34.375,
+          "ratio"          : 1.27
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b00014b",
+      "annee"       : "2014",
+      "iteration"   : 5,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b00014d",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-03-03",
+          "duree"          : 10,
+          "velocite_prevue": 27.0,
+          "velocite_faite" : 26.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 36.0,
+          "ratio"          : 1.38
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b00019b",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-03-03",
+          "duree"          : 10,
+          "velocite_prevue": 71.0,
+          "velocite_faite" : 89.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001e9",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-03-04",
+          "duree"          : 10,
+          "velocite_prevue": 23.0,
+          "velocite_faite" : 22.0,
+          "etp_total"      : 55.0,
+          "etp_ratio"      : 32.5,
+          "ratio"          : 1.48
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b00014e",
+      "annee"       : "2014",
+      "iteration"   : 6,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b000150",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-03-17",
+          "duree"          : 10,
+          "velocite_prevue": 25.0,
+          "velocite_faite" : 25.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 34.5,
+          "ratio"          : 1.38
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b00019e",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-03-17",
+          "duree"          : 10,
+          "velocite_prevue": 64.0,
+          "velocite_faite" : 71.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001ec",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-03-18",
+          "duree"          : 10,
+          "velocite_prevue": 45.0,
+          "velocite_faite" : 38.0,
+          "etp_total"      : 60.0,
+          "etp_ratio"      : 39.0,
+          "ratio"          : 1.03
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b000151",
+      "annee"       : "2014",
+      "iteration"   : 7,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b000153",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-03-31",
+          "duree"          : 10,
+          "velocite_prevue": 25.0,
+          "velocite_faite" : 24.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 31.5,
+          "ratio"          : 1.31
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001a1",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-03-31",
+          "duree"          : 10,
+          "velocite_prevue": 81.0,
+          "velocite_faite" : 87.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001ef",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-04-01",
+          "duree"          : 10,
+          "velocite_prevue": 18.0,
+          "velocite_faite" : 19.0,
+          "etp_total"      : 60.0,
+          "etp_ratio"      : 33.0,
+          "ratio"          : 1.74
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b000154",
+      "annee"       : "2014",
+      "iteration"   : 8,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b000156",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-04-14",
+          "duree"          : 9,
+          "velocite_prevue": 22.0,
+          "velocite_faite" : 16.0,
+          "etp_total"      : 45.0,
+          "etp_ratio"      : 27.5,
+          "ratio"          : 1.72
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001a4",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-04-14",
+          "duree"          : 9,
+          "velocite_prevue": 77.0,
+          "velocite_faite" : 83.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001f2",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-04-15",
+          "duree"          : 9,
+          "velocite_prevue": 57.0,
+          "velocite_faite" : 50.0,
+          "etp_total"      : 54.0,
+          "etp_ratio"      : 44.5,
+          "ratio"          : 0.89
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b000157",
+      "annee"       : "2014",
+      "iteration"   : 9,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b000159",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-04-28",
+          "duree"          : 8,
+          "velocite_prevue": 16.0,
+          "velocite_faite" : 16.0,
+          "etp_total"      : 40.0,
+          "etp_ratio"      : 21.0,
+          "ratio"          : 1.31
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001a7",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-04-28",
+          "duree"          : 8,
+          "velocite_prevue": 52.0,
+          "velocite_faite" : 48.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001f5",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-04-29",
+          "duree"          : 8,
+          "velocite_prevue": 39.0,
+          "velocite_faite" : 33.0,
+          "etp_total"      : 48.0,
+          "etp_ratio"      : 27.25,
+          "ratio"          : 0.83
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b00015a",
+      "annee"       : "2014",
+      "iteration"   : 10,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b00015c",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-05-12",
+          "duree"          : 10,
+          "velocite_prevue": 31.0,
+          "velocite_faite" : 30.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 43.5,
+          "ratio"          : 1.45
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001aa",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-05-12",
+          "duree"          : 10,
+          "velocite_prevue": 86.0,
+          "velocite_faite" : 78.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001f8",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-05-13",
+          "duree"          : 10,
+          "velocite_prevue": 42.0,
+          "velocite_faite" : 43.0,
+          "etp_total"      : 60.0,
+          "etp_ratio"      : 53.75,
+          "ratio"          : 1.25
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b00015d",
+      "annee"       : "2014",
+      "iteration"   : 11,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b00015f",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-05-26",
+          "duree"          : 9,
+          "velocite_prevue": 24.0,
+          "velocite_faite" : 22.0,
+          "etp_total"      : 45.0,
+          "etp_ratio"      : 34.25,
+          "ratio"          : 1.56
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001ad",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-05-26",
+          "duree"          : 9,
+          "velocite_prevue": 76.0,
+          "velocite_faite" : 81.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001fb",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-05-27",
+          "duree"          : 8,
+          "velocite_prevue": 34.0,
+          "velocite_faite" : 23.0,
+          "etp_total"      : 48.0,
+          "etp_ratio"      : 36.25,
+          "ratio"          : 1.58
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b000160",
+      "annee"       : "2014",
+      "iteration"   : 12,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b000162",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-06-09",
+          "duree"          : 9,
+          "velocite_prevue": 18.0,
+          "velocite_faite" : 11.0,
+          "etp_total"      : 45.0,
+          "etp_ratio"      : 33.75,
+          "ratio"          : 3.07
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001b0",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-06-10",
+          "duree"          : 9,
+          "velocite_prevue": 73.0,
+          "velocite_faite" : 78.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001fe",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-06-10",
+          "duree"          : 10,
+          "velocite_prevue": 25.0,
+          "velocite_faite" : 51.0,
+          "etp_total"      : 60.0,
+          "etp_ratio"      : 52.0,
+          "ratio"          : 1.02
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b000163",
+      "annee"       : "2014",
+      "iteration"   : 13,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b000165",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-06-23",
+          "duree"          : 10,
+          "velocite_prevue": 29.0,
+          "velocite_faite" : 29.0,
+          "etp_total"      : 54.0,
+          "etp_ratio"      : 34.75,
+          "ratio"          : 1.2
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001b3",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-06-23",
+          "duree"          : 10,
+          "velocite_prevue": 81.0,
+          "velocite_faite" : 84.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b000201",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-06-24",
+          "duree"          : 10,
+          "velocite_prevue": 41.0,
+          "velocite_faite" : 29.0,
+          "etp_total"      : 60.0,
+          "etp_ratio"      : 53.375,
+          "ratio"          : 1.84
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b000166",
+      "annee"       : "2014",
+      "iteration"   : 14,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b000168",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-07-07",
+          "duree"          : 9,
+          "velocite_prevue": 26.0,
+          "velocite_faite" : 26.0,
+          "etp_total"      : 54.0,
+          "etp_ratio"      : 31.75,
+          "ratio"          : 1.22
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001b6",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-07-07",
+          "duree"          : 9,
+          "velocite_prevue": 82.0,
+          "velocite_faite" : 69.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b000204",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-07-08",
+          "duree"          : 9,
+          "velocite_prevue": 40.0,
+          "velocite_faite" : 23.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 37.0,
+          "ratio"          : 1.61
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b000169",
+      "annee"       : "2014",
+      "iteration"   : 15,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b00016b",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-07-21",
+          "duree"          : 10,
+          "velocite_prevue": 7.0,
+          "velocite_faite" : 6.0,
+          "etp_total"      : 59.75,
+          "etp_ratio"      : 11.5,
+          "ratio"          : 1.92
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001b9",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-07-21",
+          "duree"          : 10,
+          "velocite_prevue": 24.0,
+          "velocite_faite" : 13.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b000207",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-07-22",
+          "duree"          : 10,
+          "velocite_prevue": 35.0,
+          "velocite_faite" : 53.0,
+          "etp_total"      : 60.0,
+          "etp_ratio"      : 40.75,
+          "ratio"          : 0.77
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b00016c",
+      "annee"       : "2014",
+      "iteration"   : 16,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b00016e",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-08-04",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 60.0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001bc",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-08-04",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfdfbf59a191b00020a",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-08-05",
+          "duree"          : 9,
+          "velocite_prevue": 12.0,
+          "velocite_faite" : 22.0,
+          "etp_total"      : 63.0,
+          "etp_ratio"      : 16.25,
+          "ratio"          : 0.74
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b00016f",
+      "annee"       : "2014",
+      "iteration"   : 17,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b000171",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-08-18",
+          "duree"          : 10,
+          "velocite_prevue": 12.0,
+          "velocite_faite" : 6.0,
+          "etp_total"      : 60.0,
+          "etp_ratio"      : 15.0,
+          "ratio"          : 2.5
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001bf",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-08-18",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 73.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfdfbf59a191b00020d",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-08-19",
+          "duree"          : 10,
+          "velocite_prevue": 36.0,
+          "velocite_faite" : 40.0,
+          "etp_total"      : 70.0,
+          "etp_ratio"      : 42.0,
+          "ratio"          : 1.05
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b000172",
+      "annee"       : "2014",
+      "iteration"   : 18,
+      "ferme"       : true,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b000174",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-09-01",
+          "duree"          : 11,
+          "velocite_prevue": 37.0,
+          "velocite_faite" : 36.0,
+          "etp_total"      : 77.0,
+          "etp_ratio"      : 47.75,
+          "ratio"          : 1.33
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001c2",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-09-01",
+          "duree"          : 10,
+          "velocite_prevue": 84.0,
+          "velocite_faite" : 90.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfdfbf59a191b000210",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-09-02",
+          "duree"          : 10,
+          "velocite_prevue": 57.0,
+          "velocite_faite" : 39.0,
+          "etp_total"      : 70.0,
+          "etp_ratio"      : 57.5,
+          "ratio"          : 1.47
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b000175",
+      "annee"       : "2014",
+      "iteration"   : 19,
+      "ferme"       : true,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b000177",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-09-16",
+          "duree"          : 10,
+          "velocite_prevue": 32.0,
+          "velocite_faite" : 32.0,
+          "etp_total"      : 70.0,
+          "etp_ratio"      : 43.0,
+          "ratio"          : 1.34
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001c5",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-09-15",
+          "duree"          : 10,
+          "velocite_prevue": 90.0,
+          "velocite_faite" : 89.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfdfbf59a191b000213",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-09-16",
+          "duree"          : 10,
+          "velocite_prevue": 56.0,
+          "velocite_faite" : 56.0,
+          "etp_total"      : 70.0,
+          "etp_ratio"      : 52.75,
+          "ratio"          : 0.94
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b000178",
+      "annee"       : "2014",
+      "iteration"   : 20,
+      "ferme"       : true,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b00017a",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-09-30",
+          "duree"          : 10,
+          "velocite_prevue": 40.0,
+          "velocite_faite" : 28.0,
+          "etp_total"      : 70.0,
+          "etp_ratio"      : 57.5,
+          "ratio"          : 2.05
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001c8",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-09-29",
+          "duree"          : 10,
+          "velocite_prevue": 112.0,
+          "velocite_faite" : 49.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfdfbf59a191b000216",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-09-30",
+          "duree"          : 10,
+          "velocite_prevue": 57.0,
+          "velocite_faite" : 44.0,
+          "etp_total"      : 70.0,
+          "etp_ratio"      : 53.25,
+          "ratio"          : 1.21
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b00017b",
+      "annee"       : "2014",
+      "iteration"   : 21,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b00017d",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-10-14",
+          "duree"          : 10,
+          "velocite_prevue": 34.0,
+          "velocite_faite" : 15.0,
+          "etp_total"      : 70.0,
+          "etp_ratio"      : 47.5,
+          "ratio"          : 3.17
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001cb",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-10-13",
+          "duree"          : 10,
+          "velocite_prevue": 72.0,
+          "velocite_faite" : 53.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfdfbf59a191b000219",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-10-14",
+          "duree"          : 10,
+          "velocite_prevue": 61.0,
+          "velocite_faite" : 47.0,
+          "etp_total"      : 70.0,
+          "etp_ratio"      : 60.0,
+          "ratio"          : 1.28
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b00017e",
+      "annee"       : "2014",
+      "iteration"   : 22,
+      "ferme"       : true,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b000180",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-10-28",
+          "duree"          : 10,
+          "velocite_prevue": 35.0,
+          "velocite_faite" : 19.0,
+          "etp_total"      : 70.0,
+          "etp_ratio"      : 49.75,
+          "ratio"          : 2.62
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001ce",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-10-27",
+          "duree"          : 10,
+          "velocite_prevue": 66.0,
+          "velocite_faite" : 69.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfdfbf59a191b00021c",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-10-28",
+          "duree"          : 10,
+          "velocite_prevue": 77.0,
+          "velocite_faite" : 56.0,
+          "etp_total"      : 70.0,
+          "etp_ratio"      : 49.75,
+          "ratio"          : 0.89
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b000181",
+      "annee"       : "2014",
+      "iteration"   : 23,
+      "ferme"       : true,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b000183",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-11-12",
+          "duree"          : 9,
+          "velocite_prevue": 30.0,
+          "velocite_faite" : 16.0,
+          "etp_total"      : 63.0,
+          "etp_ratio"      : 42.0,
+          "ratio"          : 2.63
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001d1",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-11-10",
+          "duree"          : 9,
+          "velocite_prevue": 53.0,
+          "velocite_faite" : 73.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfdfbf59a191b00021f",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-11-11",
+          "duree"          : 9,
+          "velocite_prevue": 52.0,
+          "velocite_faite" : 73.0,
+          "etp_total"      : 63.0,
+          "etp_ratio"      : 48.5,
+          "ratio"          : 0.66
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b000184",
+      "annee"       : "2014",
+      "iteration"   : 24,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b000186",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-11-25",
+          "duree"          : 9,
+          "velocite_prevue": 30.0,
+          "velocite_faite" : 14.0,
+          "etp_total"      : 66.0,
+          "etp_ratio"      : 40.75,
+          "ratio"          : 2.91
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001d4",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-11-24",
+          "duree"          : 10,
+          "velocite_prevue": 83.0,
+          "velocite_faite" : 104.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfdfbf59a191b000222",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-11-25",
+          "duree"          : 10,
+          "velocite_prevue": 55.0,
+          "velocite_faite" : 30.0,
+          "etp_total"      : 70.0,
+          "etp_ratio"      : 61.75,
+          "ratio"          : 2.06
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b000187",
+      "annee"       : "2014",
+      "iteration"   : 25,
+      "ferme"       : true,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b000189",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-12-08",
+          "duree"          : 11,
+          "velocite_prevue": 24.0,
+          "velocite_faite" : 19.0,
+          "etp_total"      : 88.0,
+          "etp_ratio"      : 42.5,
+          "ratio"          : 2.24
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001d7",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-12-08",
+          "duree"          : 10,
+          "velocite_prevue": 80.0,
+          "velocite_faite" : 79.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5332cdfdfbf59a191b000225",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-12-09",
+          "duree"          : 10,
+          "velocite_prevue": 68.0,
+          "velocite_faite" : 45.0,
+          "etp_total"      : 70.0,
+          "etp_ratio"      : 62.25,
+          "ratio"          : 1.38
+        }
+      ]
+    },
+    {
+      "id"          : "5332cdfcfbf59a191b00018a",
+      "annee"       : "2014",
+      "iteration"   : 26,
+      "ferme"       : true,
+      "declinaisons": [
+        {
+          "id"             : "5332cdfcfbf59a191b00018c",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2014-12-23",
+          "duree"          : 8,
+          "velocite_prevue": 5.0,
+          "velocite_faite" : 5.0,
+          "etp_total"      : 64.0,
+          "etp_ratio"      : 14.0,
+          "ratio"          : 2.8
+        },
+        {
+          "id"             : "5332cdfcfbf59a191b0001da",
+          "groupe"         : "Pau/Toulouse",
+          "dtDebut"        : "2014-12-22",
+          "duree"          : 8,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 12.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "54aa5ed5fbf59a51fa000003",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2014-12-23",
+          "duree"          : 8,
+          "velocite_prevue": 26.0,
+          "velocite_faite" : 8.0,
+          "etp_total"      : 56.0,
+          "etp_ratio"      : 14.0,
+          "ratio"          : 1.75
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb00003f",
+      "annee"       : "2015",
+      "iteration"   : 1,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb000040",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-01-05",
+          "duree"          : 10,
+          "velocite_prevue": 41.0,
+          "velocite_faite" : 38.0,
+          "etp_total"      : 55.5,
+          "etp_ratio"      : 45.25,
+          "ratio"          : 1.19
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000041",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-01-06",
+          "duree"          : 10,
+          "velocite_prevue": 29.0,
+          "velocite_faite" : 29.0,
+          "etp_total"      : 90.0,
+          "etp_ratio"      : 62.5,
+          "ratio"          : 2.16
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000042",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-01-05",
+          "duree"          : 10,
+          "velocite_prevue": 76.0,
+          "velocite_faite" : 68.0,
+          "etp_total"      : 80.0,
+          "etp_ratio"      : 60.0,
+          "ratio"          : 0.88
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000043",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-01-05",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb000044",
+      "annee"       : "2015",
+      "iteration"   : 2,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb000045",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-01-19",
+          "duree"          : 9,
+          "velocite_prevue": 35.0,
+          "velocite_faite" : 34.0,
+          "etp_total"      : 54.0,
+          "etp_ratio"      : 40.375,
+          "ratio"          : 1.19
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000046",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-01-20",
+          "duree"          : 9,
+          "velocite_prevue": 29.0,
+          "velocite_faite" : 23.0,
+          "etp_total"      : 81.0,
+          "etp_ratio"      : 46.25,
+          "ratio"          : 2.01
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000047",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-01-19",
+          "duree"          : 10,
+          "velocite_prevue": 82.0,
+          "velocite_faite" : 90.0,
+          "etp_total"      : 80.0,
+          "etp_ratio"      : 55.5,
+          "ratio"          : 0.62
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000048",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-01-19",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb000049",
+      "annee"       : "2015",
+      "iteration"   : 3,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb00004a",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-02-02",
+          "duree"          : 11,
+          "velocite_prevue": 51.0,
+          "velocite_faite" : 40.0,
+          "etp_total"      : 63.5,
+          "etp_ratio"      : 47.5,
+          "ratio"          : 1.19
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb00004b",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-02-03",
+          "duree"          : 11,
+          "velocite_prevue": 28.0,
+          "velocite_faite" : 20.0,
+          "etp_total"      : 99.0,
+          "etp_ratio"      : 52.5,
+          "ratio"          : 2.63
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb00004c",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-02-02",
+          "duree"          : 10,
+          "velocite_prevue": 64.0,
+          "velocite_faite" : 46.0,
+          "etp_total"      : 70.0,
+          "etp_ratio"      : 46.5,
+          "ratio"          : 1.01
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb00004d",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-02-02",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb00004e",
+      "annee"       : "2015",
+      "iteration"   : 4,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb00004f",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-02-16",
+          "duree"          : 10,
+          "velocite_prevue": 44.0,
+          "velocite_faite" : 43.0,
+          "etp_total"      : 60.0,
+          "etp_ratio"      : 46.375,
+          "ratio"          : 1.08
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000050",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-02-17",
+          "duree"          : 10,
+          "velocite_prevue": 34.0,
+          "velocite_faite" : 18.0,
+          "etp_total"      : 90.0,
+          "etp_ratio"      : 62.0,
+          "ratio"          : 3.44
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000051",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-02-16",
+          "duree"          : 10,
+          "velocite_prevue": 64.0,
+          "velocite_faite" : 41.0,
+          "etp_total"      : 69.0,
+          "etp_ratio"      : 49.0,
+          "ratio"          : 1.2
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000052",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-02-16",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb000053",
+      "annee"       : "2015",
+      "iteration"   : 5,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb000054",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-03-02",
+          "duree"          : 10,
+          "velocite_prevue": 57.0,
+          "velocite_faite" : 72.0,
+          "etp_total"      : 60.0,
+          "etp_ratio"      : 52.875,
+          "ratio"          : 0.73
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000055",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-03-03",
+          "duree"          : 10,
+          "velocite_prevue": 35.0,
+          "velocite_faite" : 30.0,
+          "etp_total"      : 90.0,
+          "etp_ratio"      : 56.5,
+          "ratio"          : 1.88
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000056",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-03-02",
+          "duree"          : 10,
+          "velocite_prevue": 87.0,
+          "velocite_faite" : 74.0,
+          "etp_total"      : 70.0,
+          "etp_ratio"      : 56.5,
+          "ratio"          : 0.76
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000057",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-03-02",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb000058",
+      "annee"       : "2015",
+      "iteration"   : 6,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb000059",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-03-17",
+          "duree"          : 10,
+          "velocite_prevue": 74.0,
+          "velocite_faite" : 39.0,
+          "etp_total"      : 60.0,
+          "etp_ratio"      : 47.0,
+          "ratio"          : 1.21
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb00005a",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-03-17",
+          "duree"          : 10,
+          "velocite_prevue": 31.0,
+          "velocite_faite" : 31.0,
+          "etp_total"      : 100.0,
+          "etp_ratio"      : 58.5,
+          "ratio"          : 1.89
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb00005b",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-03-16",
+          "duree"          : 10,
+          "velocite_prevue": 89.0,
+          "velocite_faite" : 82.0,
+          "etp_total"      : 70.0,
+          "etp_ratio"      : 51.0,
+          "ratio"          : 0.62
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb00005c",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-03-16",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb00005d",
+      "annee"       : "2015",
+      "iteration"   : 7,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb00005e",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-03-31",
+          "duree"          : 9,
+          "velocite_prevue": 73.0,
+          "velocite_faite" : 16.0,
+          "etp_total"      : 54.0,
+          "etp_ratio"      : 41.75,
+          "ratio"          : 2.61
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb00005f",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-03-31",
+          "duree"          : 9,
+          "velocite_prevue": 33.0,
+          "velocite_faite" : 21.0,
+          "etp_total"      : 81.0,
+          "etp_ratio"      : 48.75,
+          "ratio"          : 2.32
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000060",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-03-30",
+          "duree"          : 9,
+          "velocite_prevue": 83.0,
+          "velocite_faite" : 45.0,
+          "etp_total"      : 66.0,
+          "etp_ratio"      : 44.0,
+          "ratio"          : 0.98
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000061",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-03-30",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb000062",
+      "annee"       : "2015",
+      "iteration"   : 8,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb000063",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-04-14",
+          "duree"          : 10,
+          "velocite_prevue": 97.0,
+          "velocite_faite" : 68.0,
+          "etp_total"      : 60.0,
+          "etp_ratio"      : 52.375,
+          "ratio"          : 0.77
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000064",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-04-14",
+          "duree"          : 10,
+          "velocite_prevue": 39.0,
+          "velocite_faite" : 28.0,
+          "etp_total"      : 89.0,
+          "etp_ratio"      : 57.25,
+          "ratio"          : 2.04
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000065",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-04-13",
+          "duree"          : 10,
+          "velocite_prevue": 62.0,
+          "velocite_faite" : 65.0,
+          "etp_total"      : 70.0,
+          "etp_ratio"      : 42.5,
+          "ratio"          : 0.65
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000066",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-04-13",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb000067",
+      "annee"       : "2015",
+      "iteration"   : 9,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb000068",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-04-28",
+          "duree"          : 8,
+          "velocite_prevue": 57.0,
+          "velocite_faite" : 37.0,
+          "etp_total"      : 48.5,
+          "etp_ratio"      : 38.5,
+          "ratio"          : 1.04
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000069",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-04-28",
+          "duree"          : 8,
+          "velocite_prevue": 26.0,
+          "velocite_faite" : 24.0,
+          "etp_total"      : 80.0,
+          "etp_ratio"      : 40.25,
+          "ratio"          : 1.68
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb00006a",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-04-27",
+          "duree"          : 8,
+          "velocite_prevue": 60.0,
+          "velocite_faite" : 52.0,
+          "etp_total"      : 66.0,
+          "etp_ratio"      : 39.5,
+          "ratio"          : 0.76
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb00006b",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-04-27",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5550c34efbf59a70fb000830",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2015-04-28",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb00006c",
+      "annee"       : "2015",
+      "iteration"   : 10,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb00006d",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-05-12",
+          "duree"          : 9,
+          "velocite_prevue": 34.0,
+          "velocite_faite" : 11.0,
+          "etp_total"      : 45.5,
+          "etp_ratio"      : 16.0,
+          "ratio"          : 1.45
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb00006e",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-05-12",
+          "duree"          : 8,
+          "velocite_prevue": 28.0,
+          "velocite_faite" : 26.0,
+          "etp_total"      : 80.0,
+          "etp_ratio"      : 38.75,
+          "ratio"          : 1.49
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb00006f",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-05-11",
+          "duree"          : 9,
+          "velocite_prevue": 27.0,
+          "velocite_faite" : 27.0,
+          "etp_total"      : 55.0,
+          "etp_ratio"      : 15.5,
+          "ratio"          : 0.57
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000070",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-05-11",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5550c34efbf59a70fb000832",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2015-05-12",
+          "duree"          : 9,
+          "velocite_prevue": 15.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 27.0,
+          "etp_ratio"      : 18.5,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb000071",
+      "annee"       : "2015",
+      "iteration"   : 11,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb000072",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-05-26",
+          "duree"          : 10,
+          "velocite_prevue": 36.0,
+          "velocite_faite" : 40.0,
+          "etp_total"      : 45.5,
+          "etp_ratio"      : 34.0,
+          "ratio"          : 0.85
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000073",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-05-26",
+          "duree"          : 10,
+          "velocite_prevue": 40.0,
+          "velocite_faite" : 37.0,
+          "etp_total"      : 90.0,
+          "etp_ratio"      : 71.5,
+          "ratio"          : 1.93
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000074",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-05-25",
+          "duree"          : 9,
+          "velocite_prevue": 70.0,
+          "velocite_faite" : 63.0,
+          "etp_total"      : 57.5,
+          "etp_ratio"      : 40.5,
+          "ratio"          : 0.64
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000075",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-05-25",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5550c34efbf59a70fb000834",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2015-05-26",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 30.0,
+          "etp_ratio"      : 22.625,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb000076",
+      "annee"       : "2015",
+      "iteration"   : 12,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb000077",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-06-09",
+          "duree"          : 10,
+          "velocite_prevue": 33.0,
+          "velocite_faite" : 27.0,
+          "etp_total"      : 41.0,
+          "etp_ratio"      : 27.5,
+          "ratio"          : 1.02
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000078",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-06-09",
+          "duree"          : 10,
+          "velocite_prevue": 39.0,
+          "velocite_faite" : 36.0,
+          "etp_total"      : 90.0,
+          "etp_ratio"      : 68.0,
+          "ratio"          : 1.89
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000079",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-06-08",
+          "duree"          : 10,
+          "velocite_prevue": 59.0,
+          "velocite_faite" : 58.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 32.0,
+          "ratio"          : 0.55
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb00007a",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-06-08",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5550c34efbf59a70fb000836",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2015-06-09",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 30.0,
+          "etp_ratio"      : 18.625,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "55ed9f5daddb3c0344000004",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2015-06-08",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 18.0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb00007b",
+      "annee"       : "2015",
+      "iteration"   : 13,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb00007c",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-06-23",
+          "duree"          : 10,
+          "velocite_prevue": 32.0,
+          "velocite_faite" : 34.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 29.5,
+          "ratio"          : 0.87
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb00007d",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-06-23",
+          "duree"          : 10,
+          "velocite_prevue": 115.0,
+          "velocite_faite" : 81.0,
+          "etp_total"      : 90.0,
+          "etp_ratio"      : 45.5,
+          "ratio"          : 0.56
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb00007e",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-06-22",
+          "duree"          : 10,
+          "velocite_prevue": 64.0,
+          "velocite_faite" : 71.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 30.0,
+          "ratio"          : 0.42
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb00007f",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-06-22",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5550c34efbf59a70fb000838",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2015-06-23",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 30.0,
+          "etp_ratio"      : 23.25,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "55ed9f5daddb3c0344000006",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2015-06-22",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 18.0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb000080",
+      "annee"       : "2015",
+      "iteration"   : 14,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb000081",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-07-07",
+          "duree"          : 9,
+          "velocite_prevue": 45.0,
+          "velocite_faite" : 32.0,
+          "etp_total"      : 43.5,
+          "etp_ratio"      : 30.0,
+          "ratio"          : 0.94
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000082",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-07-07",
+          "duree"          : 9,
+          "velocite_prevue": 141.0,
+          "velocite_faite" : 36.0,
+          "etp_total"      : 80.0,
+          "etp_ratio"      : 58.25,
+          "ratio"          : 1.62
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000083",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-07-06",
+          "duree"          : 9,
+          "velocite_prevue": 71.0,
+          "velocite_faite" : 70.0,
+          "etp_total"      : 46.0,
+          "etp_ratio"      : 31.5,
+          "ratio"          : 0.45
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000084",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-07-06",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5550c34efbf59a70fb00083a",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2015-07-07",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 27.0,
+          "etp_ratio"      : 20.5,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "55ed9f5daddb3c0344000008",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2015-07-06",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 19.0,
+          "etp_ratio"      : 16.0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb000085",
+      "annee"       : "2015",
+      "iteration"   : 15,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb000086",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-07-21",
+          "duree"          : 10,
+          "velocite_prevue": 28.0,
+          "velocite_faite" : 30.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 32.5,
+          "ratio"          : 1.08
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000087",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-07-21",
+          "duree"          : 10,
+          "velocite_prevue": 88.0,
+          "velocite_faite" : 78.0,
+          "etp_total"      : 90.0,
+          "etp_ratio"      : 32.5,
+          "ratio"          : 0.42
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000088",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-07-20",
+          "duree"          : 10,
+          "velocite_prevue": 70.0,
+          "velocite_faite" : 70.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 38.5,
+          "ratio"          : 0.55
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000089",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-07-20",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5550c34efbf59a70fb00083c",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2015-07-21",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 30.0,
+          "etp_ratio"      : 24.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "55ed9f5daddb3c034400000a",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2015-07-20",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 18.0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb00008a",
+      "annee"       : "2015",
+      "iteration"   : 16,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb00008b",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-08-03",
+          "duree"          : 10,
+          "velocite_prevue": 33.0,
+          "velocite_faite" : 31.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 27.5,
+          "ratio"          : 0.89
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb00008c",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-08-04",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 90.0,
+          "etp_ratio"      : 8.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb00008d",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-08-03",
+          "duree"          : 10,
+          "velocite_prevue": 21.0,
+          "velocite_faite" : 21.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 5.0,
+          "ratio"          : 0.24
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb00008e",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-08-03",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5550c34efbf59a70fb00083e",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2015-08-04",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 30.0,
+          "etp_ratio"      : 6.25,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "55ed9f5daddb3c034400000c",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2015-08-03",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 5.0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb00008f",
+      "annee"       : "2015",
+      "iteration"   : 17,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb000090",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-08-17",
+          "duree"          : 10,
+          "velocite_prevue": 39.0,
+          "velocite_faite" : 40.0,
+          "etp_total"      : 60.0,
+          "etp_ratio"      : 40.7,
+          "ratio"          : 1.02
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000091",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-08-18",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 90.0,
+          "etp_ratio"      : 41.5,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000092",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-08-17",
+          "duree"          : 10,
+          "velocite_prevue": 46.0,
+          "velocite_faite" : 27.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 24.5,
+          "ratio"          : 0.91
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000093",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-08-17",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5550c34efbf59a70fb000840",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2015-08-18",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 30.0,
+          "etp_ratio"      : 14.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "55ed9f5daddb3c034400000e",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2015-08-17",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 5.0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb000094",
+      "annee"       : "2015",
+      "iteration"   : 18,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb000095",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-08-31",
+          "duree"          : 10,
+          "velocite_prevue": 43.0,
+          "velocite_faite" : 47.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 38.0,
+          "ratio"          : 0.81
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000096",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-09-01",
+          "duree"          : 10,
+          "velocite_prevue": 180.0,
+          "velocite_faite" : 82.0,
+          "etp_total"      : 85.0,
+          "etp_ratio"      : 45.5,
+          "ratio"          : 0.55
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000097",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-08-31",
+          "duree"          : 10,
+          "velocite_prevue": 73.0,
+          "velocite_faite" : 32.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 38.0,
+          "ratio"          : 1.19
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb000098",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-08-31",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5550c34efbf59a70fb000842",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2015-09-01",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 30.0,
+          "etp_ratio"      : 21.375,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "55ed9f5daddb3c0344000010",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2015-08-31",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 17.5,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb000099",
+      "annee"       : "2015",
+      "iteration"   : 19,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb00009a",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-09-14",
+          "duree"          : 10,
+          "velocite_prevue": 53.0,
+          "velocite_faite" : 58.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 43.5,
+          "ratio"          : 0.75
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb00009b",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-09-15",
+          "duree"          : 10,
+          "velocite_prevue": 130.0,
+          "velocite_faite" : 90.0,
+          "etp_total"      : 80.0,
+          "etp_ratio"      : 45.0,
+          "ratio"          : 0.5
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb00009c",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-09-14",
+          "duree"          : 10,
+          "velocite_prevue": 85.0,
+          "velocite_faite" : 80.0,
+          "etp_total"      : 52.0,
+          "etp_ratio"      : 37.75,
+          "ratio"          : 0.47
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb00009d",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-09-14",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5550c34efbf59a70fb000844",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2015-09-15",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 30.0,
+          "etp_ratio"      : 25.125,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "55ed9f5daddb3c0344000012",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2015-09-14",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 18.0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb00009e",
+      "annee"       : "2015",
+      "iteration"   : 20,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb00009f",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-09-28",
+          "duree"          : 10,
+          "velocite_prevue": 39.0,
+          "velocite_faite" : 28.0,
+          "etp_total"      : 40.5,
+          "etp_ratio"      : 38.5,
+          "ratio"          : 1.38
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb0000a0",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-09-29",
+          "duree"          : 10,
+          "velocite_prevue": 118.0,
+          "velocite_faite" : 37.0,
+          "etp_total"      : 80.0,
+          "etp_ratio"      : 47.0,
+          "ratio"          : 1.27
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb0000a1",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-09-28",
+          "duree"          : 10,
+          "velocite_prevue": 67.0,
+          "velocite_faite" : 36.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 32.5,
+          "ratio"          : 0.9
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb0000a2",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-09-28",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5550c34efbf59a70fb000846",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2015-09-29",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 19.0,
+          "etp_ratio"      : 14.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "55ed9f5daddb3c0344000014",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2015-09-28",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 18.0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb0000a3",
+      "annee"       : "2015",
+      "iteration"   : 21,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb0000a4",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-10-12",
+          "duree"          : 10,
+          "velocite_prevue": 44.0,
+          "velocite_faite" : 33.0,
+          "etp_total"      : 40.0,
+          "etp_ratio"      : 38.5,
+          "ratio"          : 1.17
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb0000a5",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-10-13",
+          "duree"          : 10,
+          "velocite_prevue": 99.0,
+          "velocite_faite" : 41.0,
+          "etp_total"      : 78.0,
+          "etp_ratio"      : 45.25,
+          "ratio"          : 1.1
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb0000a6",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-10-12",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 48.5,
+          "etp_ratio"      : 23.5,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb0000a7",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-10-12",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5550c34efbf59a70fb000848",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2015-10-12",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 16.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "55ed9f5daddb3c0344000016",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2015-10-12",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 13.0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb0000a8",
+      "annee"       : "2015",
+      "iteration"   : 22,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb0000a9",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-10-26",
+          "duree"          : 10,
+          "velocite_prevue": 47.0,
+          "velocite_faite" : 45.0,
+          "etp_total"      : 30.0,
+          "etp_ratio"      : 29.0,
+          "ratio"          : 0.64
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb0000aa",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-10-27",
+          "duree"          : 10,
+          "velocite_prevue": 32.0,
+          "velocite_faite" : 27.0,
+          "etp_total"      : 70.0,
+          "etp_ratio"      : 45.0,
+          "ratio"          : 1.67
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb0000ab",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-10-26",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 55.0,
+          "etp_ratio"      : 32.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb0000ac",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-10-26",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5550c34efbf59a70fb00084a",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2015-10-26",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 11.75,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "55ed9f5daddb3c0344000018",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2015-10-26",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 18.0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb0000ad",
+      "annee"       : "2015",
+      "iteration"   : 23,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb0000ae",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-11-09",
+          "duree"          : 10,
+          "velocite_prevue": 37.0,
+          "velocite_faite" : 26.0,
+          "etp_total"      : 30.0,
+          "etp_ratio"      : 24.0,
+          "ratio"          : 0.92
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb0000af",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-11-10",
+          "duree"          : 9,
+          "velocite_prevue": 36.0,
+          "velocite_faite" : 25.5,
+          "etp_total"      : 64.0,
+          "etp_ratio"      : 36.5,
+          "ratio"          : 1.43
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb0000b0",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-11-09",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 59.5,
+          "etp_ratio"      : 34.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb0000b1",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-11-09",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5550c34efbf59a70fb00084c",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2015-11-09",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 19.0,
+          "etp_ratio"      : 16.25,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "55ed9f5daddb3c034400001a",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2015-11-09",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 17.5,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb0000b2",
+      "annee"       : "2015",
+      "iteration"   : 24,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb0000b3",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-11-23",
+          "duree"          : 10,
+          "velocite_prevue": 28.0,
+          "velocite_faite" : 27.0,
+          "etp_total"      : 30.0,
+          "etp_ratio"      : 29.0,
+          "ratio"          : 1.07
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb0000b4",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-11-24",
+          "duree"          : 10,
+          "velocite_prevue": 26.0,
+          "velocite_faite" : 24.0,
+          "etp_total"      : 78.5,
+          "etp_ratio"      : 57.25,
+          "ratio"          : 2.39
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb0000b5",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-11-23",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 60.0,
+          "etp_ratio"      : 45.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb0000b6",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-11-23",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5550c34efbf59a70fb00084e",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2015-11-23",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 16.625,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "55ed9f5daddb3c034400001c",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2015-11-23",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 18.0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb0000b7",
+      "annee"       : "2015",
+      "iteration"   : 25,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb0000b8",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-12-07",
+          "duree"          : 10,
+          "velocite_prevue": 43.0,
+          "velocite_faite" : 34.0,
+          "etp_total"      : 30.0,
+          "etp_ratio"      : 24.0,
+          "ratio"          : 0.71
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb0000b9",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-12-08",
+          "duree"          : 10,
+          "velocite_prevue": 27.0,
+          "velocite_faite" : 27.0,
+          "etp_total"      : 70.0,
+          "etp_ratio"      : 48.0,
+          "ratio"          : 1.78
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb0000ba",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-12-07",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 60.0,
+          "etp_ratio"      : 42.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb0000bb",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-12-07",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5550c34efbf59a70fb000850",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2015-12-07",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 16.625,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "55ed9f5daddb3c034400001e",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2015-12-07",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 18.0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "54b69f1afbf59a15cb0000bc",
+      "annee"       : "2015",
+      "iteration"   : 26,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "54b69f1afbf59a15cb0000bd",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2015-12-21",
+          "duree"          : 8,
+          "velocite_prevue": 8.0,
+          "velocite_faite" : 7.0,
+          "etp_total"      : 26.0,
+          "etp_ratio"      : 6.5,
+          "ratio"          : 0.93
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb0000be",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2015-12-22",
+          "duree"          : 8,
+          "velocite_prevue": 4.0,
+          "velocite_faite" : 4.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 5.5,
+          "ratio"          : 1.38
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb0000bf",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2015-12-21",
+          "duree"          : 8,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 48.0,
+          "etp_ratio"      : 6.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "54b69f1afbf59a15cb0000c0",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2015-12-21",
+          "duree"          : 8,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "5550c34efbf59a70fb000852",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2015-12-21",
+          "duree"          : 8,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 16.0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "55ed9f5daddb3c0344000020",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2015-12-21",
+          "duree"          : 8,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 16.0,
+          "etp_ratio"      : 4.0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "56bcb663addb3c2dfe00000d",
+      "annee"       : "2016",
+      "iteration"   : 1,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "56bcb663addb3c2dfe00000e",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2016-01-04",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 19.5,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe00000f",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2016-01-04",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 60.0,
+          "etp_ratio"      : 10.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000010",
+          "groupe"         : "GFC2",
+          "dtDebut"        : "2016-01-04",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 15.0,
+          "etp_ratio"      : 5.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000011",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2016-01-04",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 21.5,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000012",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2016-01-04",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000013",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2016-01-04",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 14.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000014",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2016-01-04",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 10.0,
+          "etp_ratio"      : 3.75,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000015",
+          "groupe"         : "Autre",
+          "dtDebut"        : "2016-01-04",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "56bcb663addb3c2dfe000016",
+      "annee"       : "2016",
+      "iteration"   : 2,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "56bcb663addb3c2dfe000017",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2016-01-18",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 19.5,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000018",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2016-01-18",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 60.0,
+          "etp_ratio"      : 39.5,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000019",
+          "groupe"         : "GFC2",
+          "dtDebut"        : "2016-01-18",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 40.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe00001a",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2016-01-18",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 39.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe00001b",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2016-01-18",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe00001c",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2016-01-18",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 17.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe00001d",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2016-01-18",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 10.0,
+          "etp_ratio"      : 7.875,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe00001e",
+          "groupe"         : "Autre",
+          "dtDebut"        : "2016-01-18",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "56bcb663addb3c2dfe00001f",
+      "annee"       : "2016",
+      "iteration"   : 3,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "56bcb663addb3c2dfe000020",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2016-02-01",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 19.5,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000021",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2016-02-01",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 25.5,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000022",
+          "groupe"         : "GFC2",
+          "dtDebut"        : "2016-02-01",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 40.0,
+          "etp_ratio"      : 28.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000023",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2016-02-01",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 35.5,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000024",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2016-02-01",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000025",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2016-02-01",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 16.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000026",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2016-02-01",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 10.0,
+          "etp_ratio"      : 8.25,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000027",
+          "groupe"         : "Autre",
+          "dtDebut"        : "2016-02-01",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "56bcb663addb3c2dfe000028",
+      "annee"       : "2016",
+      "iteration"   : 4,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "56bcb663addb3c2dfe000029",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2016-02-15",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 14.5,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe00002a",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2016-02-15",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 41.0,
+          "etp_ratio"      : 26.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe00002b",
+          "groupe"         : "GFC2",
+          "dtDebut"        : "2016-02-15",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 45.0,
+          "etp_ratio"      : 35.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe00002c",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2016-02-15",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 50.0,
+          "etp_ratio"      : 40.5,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe00002d",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2016-02-15",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe00002e",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2016-02-15",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 12.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe00002f",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2016-02-15",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 10.0,
+          "etp_ratio"      : 6.625,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000030",
+          "groupe"         : "Autre",
+          "dtDebut"        : "2016-02-15",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "56bcb663addb3c2dfe000031",
+      "annee"       : "2016",
+      "iteration"   : 5,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "56bcb663addb3c2dfe000032",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2016-02-29",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 19.5,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000033",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2016-02-29",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 30.0,
+          "etp_ratio"      : 22.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000034",
+          "groupe"         : "GFC2",
+          "dtDebut"        : "2016-02-29",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 31.0,
+          "etp_ratio"      : 30.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000035",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2016-02-29",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 60.0,
+          "etp_ratio"      : 31.5,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000036",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2016-02-29",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000037",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2016-02-29",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 15.0,
+          "etp_ratio"      : 13.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000038",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2016-02-29",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 10.0,
+          "etp_ratio"      : 7.25,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000039",
+          "groupe"         : "Autre",
+          "dtDebut"        : "2016-02-29",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "56bcb663addb3c2dfe00003a",
+      "annee"       : "2016",
+      "iteration"   : 6,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "56bcb663addb3c2dfe00003b",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2016-03-14",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 10.0,
+          "etp_ratio"      : 10.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe00003c",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2016-03-14",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 30.0,
+          "etp_ratio"      : 15.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe00003d",
+          "groupe"         : "GFC2",
+          "dtDebut"        : "2016-03-14",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 29.0,
+          "etp_ratio"      : 29.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe00003e",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2016-03-14",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 40.0,
+          "etp_ratio"      : 28.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe00003f",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2016-03-14",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000040",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2016-03-14",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 10.0,
+          "etp_ratio"      : 9.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000041",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2016-03-14",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 10.0,
+          "etp_ratio"      : 6.125,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "56bcb663addb3c2dfe000042",
+          "groupe"         : "Autre",
+          "dtDebut"        : "2016-03-14",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "570cf124addb3c1f77000006",
+      "annee"       : "2016",
+      "iteration"   : 7,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "570cf124addb3c1f77000007",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2016-03-28",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 9.0,
+          "etp_ratio"      : 9.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000008",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2016-03-28",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 18.0,
+          "etp_ratio"      : 10.5,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000009",
+          "groupe"         : "GFC2",
+          "dtDebut"        : "2016-03-28",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 36.0,
+          "etp_ratio"      : 36.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f7700000a",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2016-03-28",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 36.0,
+          "etp_ratio"      : 22.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f7700000b",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2016-03-28",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f7700000c",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2016-03-28",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 10.0,
+          "etp_ratio"      : 8.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f7700000d",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2016-03-28",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 9.0,
+          "etp_ratio"      : 3.875,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f7700000e",
+          "groupe"         : "Autre",
+          "dtDebut"        : "2016-03-28",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "570cf124addb3c1f7700000f",
+      "annee"       : "2016",
+      "iteration"   : 8,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "570cf124addb3c1f77000010",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2016-04-11",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 10.0,
+          "etp_ratio"      : 10.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000011",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2016-04-11",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.0,
+          "etp_ratio"      : 10.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000012",
+          "groupe"         : "GFC2",
+          "dtDebut"        : "2016-04-11",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 10.0,
+          "etp_ratio"      : 10.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000013",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2016-04-11",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 20.5,
+          "etp_ratio"      : 12.5,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000014",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2016-04-11",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000015",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2016-04-11",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000016",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2016-04-11",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 10.0,
+          "etp_ratio"      : 8.25,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000017",
+          "groupe"         : "Autre",
+          "dtDebut"        : "2016-04-11",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "570cf124addb3c1f77000018",
+      "annee"       : "2016",
+      "iteration"   : 9,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "570cf124addb3c1f77000019",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2016-04-25",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f7700001a",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2016-04-25",
+          "duree"          : 8,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 8.0,
+          "etp_ratio"      : 7.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f7700001b",
+          "groupe"         : "GFC2",
+          "dtDebut"        : "2016-04-25",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f7700001c",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2016-04-25",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f7700001d",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2016-04-25",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f7700001e",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2016-04-25",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f7700001f",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2016-04-25",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000020",
+          "groupe"         : "Autre",
+          "dtDebut"        : "2016-04-25",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "570cf124addb3c1f77000021",
+      "annee"       : "2016",
+      "iteration"   : 10,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "570cf124addb3c1f77000022",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2016-05-09",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000023",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2016-05-09",
+          "duree"          : 9,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 9.0,
+          "etp_ratio"      : 8.0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000024",
+          "groupe"         : "GFC2",
+          "dtDebut"        : "2016-05-09",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000025",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2016-05-09",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000026",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2016-05-09",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000027",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2016-05-09",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000028",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2016-05-09",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000029",
+          "groupe"         : "Autre",
+          "dtDebut"        : "2016-05-09",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "570cf124addb3c1f7700002a",
+      "annee"       : "2016",
+      "iteration"   : 11,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "570cf124addb3c1f7700002b",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2016-05-23",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f7700002c",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2016-05-23",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f7700002d",
+          "groupe"         : "GFC2",
+          "dtDebut"        : "2016-05-23",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f7700002e",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2016-05-23",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f7700002f",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2016-05-23",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000030",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2016-05-23",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000031",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2016-05-23",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000032",
+          "groupe"         : "Autre",
+          "dtDebut"        : "2016-05-23",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "570cf124addb3c1f77000033",
+      "annee"       : "2016",
+      "iteration"   : 12,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "570cf124addb3c1f77000034",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2016-06-06",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000035",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2016-06-06",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000036",
+          "groupe"         : "GFC2",
+          "dtDebut"        : "2016-06-06",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000037",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2016-06-06",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000038",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2016-06-06",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000039",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2016-06-06",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f7700003a",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2016-06-06",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f7700003b",
+          "groupe"         : "Autre",
+          "dtDebut"        : "2016-06-06",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    },
+    {
+      "id"          : "570cf124addb3c1f7700003c",
+      "annee"       : "2016",
+      "iteration"   : 13,
+      "ferme"       : false,
+      "declinaisons": [
+        {
+          "id"             : "570cf124addb3c1f7700003d",
+          "groupe"         : "GRH",
+          "dtDebut"        : "2016-06-20",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f7700003e",
+          "groupe"         : "GFC",
+          "dtDebut"        : "2016-06-20",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f7700003f",
+          "groupe"         : "GFC2",
+          "dtDebut"        : "2016-06-20",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000040",
+          "groupe"         : "PAU/TOULOUSE",
+          "dtDebut"        : "2016-06-20",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000041",
+          "groupe"         : "AMOE",
+          "dtDebut"        : "2016-06-20",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000042",
+          "groupe"         : "RECHERCHE",
+          "dtDebut"        : "2016-06-20",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000043",
+          "groupe"         : "SOCLE",
+          "dtDebut"        : "2016-06-20",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        },
+        {
+          "id"             : "570cf124addb3c1f77000044",
+          "groupe"         : "Autre",
+          "dtDebut"        : "2016-06-20",
+          "duree"          : 10,
+          "velocite_prevue": 0.0,
+          "velocite_faite" : 0.0,
+          "etp_total"      : 0,
+          "etp_ratio"      : 0,
+          "ratio"          : 0.0
+        }
+      ]
+    }
+  ]
+}
