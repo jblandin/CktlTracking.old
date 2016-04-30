@@ -8,6 +8,7 @@ import {Subject} from "rxjs/Subject";
 import {BehaviorSubject} from "rxjs/Rx";
 import {Annee} from "./annee";
 import {Iteration} from "./iteration";
+import {Declinaison} from "./declinaison";
 
 interface TrackingAppState {
     selectedAnnee: Annee;
@@ -19,8 +20,11 @@ export class TrackingService {
 
     trackingAppState: Subject<TrackingAppState> = new BehaviorSubject<TrackingAppState>({selectedAnnee: null});
     annees: Observable<Annee[]>;
-    selectedAnnee: Subject<Annee> = new BehaviorSubject<Annee>(undefined);
     iterations: Observable<Iteration[]>;
+
+    selectedAnnee: Subject<Annee> = new BehaviorSubject<Annee>(undefined);
+    selectedIteration: Subject<Iteration> = new BehaviorSubject<Iteration>(undefined);
+    selectedGroupe: Subject<Declinaison> = new BehaviorSubject<Declinaison>(undefined);
 
     constructor(private http: Http) {
         this.annees = this.http.get(this._anneesUrl)
@@ -31,7 +35,7 @@ export class TrackingService {
                 let body = res.json();
                 let listeAnnees: Annee[] = body.data || [];
                 this.trackingAppState.next({selectedAnnee: listeAnnees[listeAnnees.length - 1]});
-                this.selectedAnnee.next(listeAnnees[listeAnnees.length - 1]);
+                this.selectAnnee(listeAnnees[listeAnnees.length - 1]);
                 return listeAnnees;
             })
             .catch(this.handleError);
@@ -42,9 +46,11 @@ export class TrackingService {
                     return "app/shared/datas/iterations_" + annee.label + ".json";
                 }
             })
-            .flatMap((url) => url ? this.http.get(url): Observable.empty())
+            .flatMap((url) => url ? this.http.get(url) : Observable.empty())
             .map((res: Response) => {
-                if (!res) {return [];}
+                if (!res) {
+                    return [];
+                }
                 if (res.status < 200 || res.status >= 300) {
                     throw new Error('Bad response status: ' + res.status);
                 }
@@ -57,6 +63,16 @@ export class TrackingService {
 
     selectAnnee(annee: Annee): void {
         this.selectedAnnee.next(annee);
+        this.selectIteration(undefined);
+    }
+
+    selectIteration(iteration: Iteration): void {
+        this.selectedIteration.next(iteration);
+        this.selectGroupe(undefined);
+    }
+
+    selectGroupe(groupe: Declinaison): void {
+        this.selectedGroupe.next(groupe);
     }
 
     /////////////////////////////////////////////////////////////////////

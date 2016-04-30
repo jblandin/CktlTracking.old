@@ -2,25 +2,13 @@
  * Created by Julien on 24/04/2016.
  */
 import {Component, OnInit} from 'angular2/core';
+import {Control} from "angular2/common";
 import {TrackingService} from "../shared/tracking.service";
-import {Annee} from "../shared/annee";
-import {Iteration} from "../shared/iteration";
+import {Annee, Iteration, Declinaison} from "../shared/shared";
 
 @Component({
-    selector: 'mes-temps',
-    template: `
-<b>{{selectedAnnee|json}}</b><br>
-<select class="form-control" required (change)="onSelectAnnee($event)">
-    <option *ngFor="#annee of annees" [selected]="annee.label === selectedAnnee.label">
-        {{annee.label}}
-    </option>
-</select>
-<select class="form-control">
-    <option *ngFor="#ite of iterations" [value]="ite">
-        {{ite.iteration}}
-    </option>
-</select>
-    `
+    selector   : 'mes-temps',
+    templateUrl: 'app/mestemps/mestemps.html'
 })
 
 export class MesTempsComponent implements OnInit {
@@ -29,39 +17,73 @@ export class MesTempsComponent implements OnInit {
 
     public annees: Annee[];
     public iterations: Iteration[];
-    public selectedAnnee: Annee;
-    private errorMessage: string;
 
+    public selectedAnnee: Annee;
+    public selectedIteration: Iteration;
+    public selectedGroupe: Declinaison;
+
+    public selectedIterationControl: Control = new Control('');
+    public selectedGroupeControl: Control = new Control('');
+
+    private errorMessage: string;
+    private errorHandler = (error) => this.errorMessage = <any>error;
 
     ngOnInit() {
         this.getAnnes();
         this.getSelectedAnnee();
         this.getIterations();
+        this.getSelectedIteration();
+        this.getSelectedGroupe();
+
+        // Subscribe controls
+        this.selectedIterationControl.valueChanges.subscribe(
+            iteration => this._trackingService.selectIteration(iteration),
+            this.errorHandler
+        );
+        this.selectedGroupeControl.valueChanges.subscribe(
+            groupe => this._trackingService.selectGroupe(groupe),
+            this.errorHandler
+        );
     }
 
     getAnnes() {
-        this._trackingService.annees
-            .subscribe(
-                annees => this.annees = annees,
-                error => this.errorMessage = <any>error
-            )
+        this._trackingService.annees.subscribe(
+            annees => this.annees = annees,
+            this.errorHandler
+        );
     }
 
     getSelectedAnnee() {
         this._trackingService.selectedAnnee.subscribe(
             annee => this.selectedAnnee = annee,
-            error => this.errorMessage = <any>error
-        )
+            this.errorHandler
+        );
     }
 
     getIterations() {
         this._trackingService.iterations.subscribe(
             iterations => this.iterations = iterations,
-            error => this.errorMessage = <any>error
-        )
+            this.errorHandler
+        );
+    }
+
+    getSelectedIteration() {
+        this._trackingService.selectedIteration.subscribe(
+            iteration => this.selectedIteration = iteration,
+            this.errorHandler
+        );
+    }
+
+    getSelectedGroupe() {
+        this._trackingService.selectedGroupe.subscribe(
+            groupe => this.selectedGroupe = groupe,
+            this.errorHandler
+        );
     }
 
     onSelectAnnee(event): void {
+        // FIXME Passer par un Control
         this._trackingService.selectAnnee({label: event.target.value});
     }
+
 }
