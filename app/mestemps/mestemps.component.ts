@@ -4,7 +4,8 @@
 import {Component, OnInit} from 'angular2/core';
 import {Control} from "angular2/common";
 import {TrackingService} from "../shared/tracking.service";
-import {Annee, Iteration, Declinaison} from "../shared/shared";
+import {Annee, Iteration, Declinaison, Groupe, Utilisateur} from "../shared/shared";
+
 
 @Component({
     selector   : 'mes-temps',
@@ -17,21 +18,27 @@ export class MesTempsComponent implements OnInit {
 
     public annees: Annee[];
     public iterations: Iteration[];
+    public groupes: Groupe[];
+    public utilisateurs: Utilisateur[];
 
     public selectedAnnee: Annee;
     public selectedIteration: Iteration;
-    public selectedGroupe: Declinaison;
+    public selectedGroupe: Groupe;
 
     public selectedIterationControl: Control = new Control('');
     public selectedGroupeControl: Control = new Control('');
+    public selectedUtilisateurControl: Control = new Control('');
 
     private errorMessage: string;
     private errorHandler = (error) => this.errorMessage = <any>error;
 
     ngOnInit() {
         this.getAnnes();
-        this.getSelectedAnnee();
         this.getIterations();
+        this.getGroupes();
+        this.getUtilisateur();
+
+        this.getSelectedAnnee();
         this.getSelectedIteration();
         this.getSelectedGroupe();
 
@@ -53,16 +60,30 @@ export class MesTempsComponent implements OnInit {
         );
     }
 
-    getSelectedAnnee() {
-        this._trackingService.selectedAnnee.subscribe(
-            annee => this.selectedAnnee = annee,
+    getIterations() {
+        this._trackingService.iterations.subscribe(
+            iterations => this.iterations = iterations,
             this.errorHandler
         );
     }
 
-    getIterations() {
-        this._trackingService.iterations.subscribe(
-            iterations => this.iterations = iterations,
+    getGroupes() {
+        this._trackingService.groupes.subscribe(
+            groupes => this.groupes = groupes,
+            this.errorHandler
+        );
+    }
+
+    getUtilisateur() {
+        this._trackingService.utilisateurs.subscribe(
+            utilisateurs => this.utilisateurs = utilisateurs,
+            this.errorHandler
+        );
+    }
+
+    getSelectedAnnee() {
+        this._trackingService.selectedAnnee.subscribe(
+            annee => this.selectedAnnee = annee,
             this.errorHandler
         );
     }

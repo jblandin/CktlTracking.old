@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "code"      : "AMOE",
+      "created_at": "2015-01-14T16:53:46Z",
+      "id"        : "54b69f1afbf59a15cb00002a",
+      "label"     : "AMOE",
+      "updated_at": "2015-01-14T16:53:46Z"
+    },
+    {
+      "code"      : "SOCLE",
+      "created_at": "2015-05-11T14:57:18Z",
+      "id"        : "5550c34efbf59a70fb00082e",
+      "label"     : "Socle",
+      "updated_at": "2015-05-11T14:57:18Z"
+    },
+    {
+      "code"      : "RECHERCHE",
+      "created_at": "2015-09-07T14:29:49Z",
+      "id"        : "55ed9f5daddb3c0344000002",
+      "label"     : "Recherche",
+      "updated_at": "2015-09-07T14:29:49Z"
+    },
+    {
+      "code"      : "GFC2",
+      "created_at": "2016-02-11T16:27:15Z",
+      "id"        : "56bcb663addb3c2dfe000002",
+      "label"     : "GFC2",
+      "updated_at": "2016-02-11T16:27:15Z"
+    },
+    {
+      "code"      : "PAU/TOULOUSE",
+      "created_at": "2014-03-26T11:01:36Z",
+      "id"        : "5332b390fbf59a12fd0000a0",
+      "label"     : "Pau/Toulouse",
+      "rang"      : 1,
+      "updated_at": "2015-05-11T14:57:15Z"
+    },
+    {
+      "code"      : "GRH",
+      "created_at": "2014-03-26T11:01:36Z",
+      "id"        : "5332b390fbf59a12fd0000a1",
+      "label"     : "GRH",
+      "rang"      : 2,
+      "updated_at": "2014-03-26T11:01:36Z"
+    },
+    {
+      "code"      : "GFC",
+      "created_at": "2014-03-26T11:01:36Z",
+      "id"        : "5332b390fbf59a12fd0000a2",
+      "label"     : "GFC",
+      "rang"      : 3,
+      "updated_at": "2014-03-26T11:01:36Z"
+    },
+    {
+      "code"      : "Autre",
+      "created_at": "2014-03-26T11:01:36Z",
+      "id"        : "5332b390fbf59a12fd0000a3",
+      "label"     : "Autre",
+      "rang"      : 4,
+      "updated_at": "2014-03-26T11:01:36Z"
+    }
+  ]
+}
